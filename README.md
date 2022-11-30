@@ -1,1 +1,1 @@
-# ps2sdk
+# ngps-sdk
